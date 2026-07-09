@@ -31,7 +31,7 @@ Now you can use just a "clitm -c 2 3 4"
   
 # Installation guide
 ```bash
-git clone https://github.com/prilter/clitm
+git clone https://github.com/justavahi/clitm
 cd clitm
 make install
 ```  
@@ -39,7 +39,7 @@ make install
 # Configure
 1) Clone repository and move to project:  
 ```bash
-git clone https://github.com/prilter/clitm
+git clone https://github.com/justavahi/clitm
 cd clitm
 ```  
 2) Open config.h and configure it  
